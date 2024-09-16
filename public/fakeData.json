@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Cozy Suburban Home",
+      "segment_name": "Single-family homes",
+      "description": "Discover this charming suburban home offering tranquility and comfort. With a spacious backyard, it's perfect for outdoor gatherings or simply relaxing in the sun. Conveniently located on Suburban Avenue in Pleasantville, this home is ideal for those seeking a peaceful retreat away from the hustle and bustle.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Suburban Avenue, Pleasantville",
+      "facilities": ["living room", "backyard", "garage"],
+      "image_url": "https://i.ibb.co/HttcpML/pexels-binyamin-mellish-1396122.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Luxury City Apartment",
+      "segment_name": "apartments",
+      "description": "Indulge in luxury living with this exquisite city apartment boasting stunning views and modern amenities. Located in the vibrant heart of downtown on Downtown Avenue, it offers the perfect blend of convenience and sophistication. Ideal for those seeking an urban lifestyle with style and comfort.",
+      "price": "$2,500/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Downtown Avenue, Metropolis",
+      "facilities": ["living room", "gym", "concierge"],
+      "image_url": "https://i.ibb.co/D1nZZ4b/pexels-binyamin-mellish-106399.jpg"
+      
+    },
+    {
+      "id": 3,
+      "estate_title": "Spacious Riverside house",
+      "segment_name": "townhouses",
+      "description": "Experience riverside living at its finest in this spacious townhouse nestled on Green Street in Riverside. With a private garden and ample living space, it offers the perfect blend of charm and modern comfort. Ideal for families or anyone seeking a tranquil retreat by the water.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Green Street, Riverside",
+      "facilities": ["living room", "garden", "garage"],
+      "image_url": "https://i.ibb.co/s2JFR1K/pexels-expect-best-323780.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Comfortable Senior Community",
+      "segment_name": "senior living communities",
+      "description": "Experience comfort and community in this welcoming senior living community located on Tranquil Lane in Serenity Meadows. With upscale dining, wellness programs, and serene surroundings, it's the perfect place for active seniors to enjoy a fulfilling lifestyle with peace of mind.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "Varies",
+      "location": "Tranquil Lane, Serenity Meadows",
+      "facilities": ["common area", "dining hall", "gardens"],
+      "image_url": "https://i.ibb.co/QDrP540/pexels-binyamin-mellish-1396132.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Modern Campus Housing",
+      "segment_name": "student housing",
+      "description": "Discover modern student living near the university campus on University Boulevard in Campus Town. With furnished units and study lounges, it offers the perfect environment for academic success and socializing. Ideal for students seeking convenience, comfort, and a vibrant community atmosphere.",
+      "price": "$800/month",
+      "status": "rent",
+      "area": "400 sq ft (per unit)",
+      "location": "University Boulevard, Campus Town",
+      "facilities": ["bedroom", "study lounge", "fitness center"],
+      "image_url": "https://i.ibb.co/tMppMg3/pexels-kaboompics-com-6343.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Family Home with Pool",
+      "segment_name": "Single-family homes",
+      "description": "Make memories in this inviting family home on Sunny Street in Family Haven. With a swimming pool and spacious backyard, it's perfect for outdoor fun and entertaining. Ideal for families seeking comfort, convenience, and a sense of community in a suburban setting.",
+      "price": "$550,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Sunny Street, Family Haven",
+      "facilities": ["swimming pool", "backyard", "kitchen"],
+      "image_url": "https://i.ibb.co/SVZ4x8p/pexels-clay-elliot-5524166.jpg"
+    },
+    {
+      "id": 7,
+      "estate_title": "Downtown Penthouse Views",
+      "segment_name": "apartments",
+      "description": "Experience luxury living in this downtown penthouse with breathtaking city views on Highrise Avenue in Skyline Tower. With premium amenities and a rooftop terrace, it offers the ultimate urban lifestyle for those seeking style, convenience, and sophistication.",
+      "price": "$10,000/month",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "Highrise Avenue, Skyline Tower",
+      "facilities": ["living room", "gym", "concierge"],
+      "image_url": "https://i.ibb.co/Ph26w08/pexels-clay-elliot-5524167.jpg"
+    },
+    {
+      "id": 8,
+      "estate_title": "Historic Townhouse Charm",
+      "segment_name": "townhouses",
+      "description": "Embrace the charm of yesteryears in this historic townhouse on Heritage Lane in Old Town. With original details and a private courtyard, it offers a unique blend of old-world elegance and modern comfort. Ideal for those seeking character and sophistication in a prime location.",
+      "price": "$380,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Heritage Lane, Old Town",
+      "facilities": ["living room", "courtyard", "fireplace"],
+      "image_url": "https://i.ibb.co/tY4YxRH/pexels-vincent-gerbouin-2263681.jpg"
+    },
+    {
+      "id": 9,
+      "estate_title": "Scenic Senior Living",
+      "segment_name": "senior living communities",
+      "description": "Experience resort-style senior living with scenic views on Tranquility Ridge in Sunset Heights. With upscale dining, fitness center, and lush gardens, it offers the perfect setting for a fulfilling retirement lifestyle amidst natural beauty and tranquility.",
+      "price": "$150,000",
+      "status": "sale",
+      "area": "Varies",
+      "location": "Tranquility Ridge, Sunset Heights",
+      "facilities": ["dining hall", "fitness center", "gardens"],
+      "image_url": "https://i.ibb.co/5WVL4GK/pexels-clay-elliot-5524336.jpg"
+    }
+  ]
+
